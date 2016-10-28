@@ -1,0 +1,38 @@
+body{
+  font-size:1em;
+  font-weight: normal;
+  font-family: Arial, sans-serif;
+  color: #000000; /*black*/
+  text-align left;
+  background-color: #9BB1FF;
+}
+h1{
+  font-size:1.8em;
+  font-weight: bold;
+  color: black;
+  text-align:center;
+  width: auto;
+  height: auto;
+  border: 2px solid black;
+  border-radius:2em;
+  background-color:#2E40A5;
+}
+h2{
+  width: auto;
+  height: auto;
+  border: 2px solid black;
+  border-radius:2em;
+  background-color:#2E40A5;
+  text-align: center;
+  }
+p{
+  font-size: 1.8;
+  text-align: left;
+  font-family: Arial;
+}
+ul{
+  color:white;
+}
+a{
+  color:#00285E;
+}
