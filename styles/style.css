@@ -1,3 +1,9 @@
+/*
+my color scheme
+#D3D3D3 LIGHT GRAY
+#2E40A5 Violet-Blue
+#00285E COOL BLACK
+*/
 body{
   font-size:1em;
   font-weight: normal;
@@ -15,12 +21,16 @@ h1{
   height: auto;
   border: 2px solid black;
   border-radius:2em;
-  background-color:#2E40A5;
+  background-color:#6BC1FF;
 }
 h2{
-  width: auto;
+  width: 200px;
   height: auto;
   text-align: left;
+  border: 2px solid black;
+  border-bottom-right-radius: 2em;
+  box-shadow: 10px 10px 5px;
+  background-color: #6BC1FF;
   }
 p{
   font-size: 1.8;
