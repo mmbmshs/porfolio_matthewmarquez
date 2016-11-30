@@ -84,3 +84,146 @@ section p {
 .indent {
 
 }
+/*** HIERARCHY ASSIGNMENT STYLES ***/
+
+/* Do not change this style */
+section {
+  font-family: "Helvetica";
+  font-size: 1em;
+  background-color: white;
+  border: solid 1px black;
+  height: 560px;
+  width: 560px;
+  margin: 0 auto;
+}
+
+/* Do not change this style */
+section p {
+  font-size: 1.1em;
+  margin: 2em 4em;
+  max-width: 55%;
+}
+
+#target {
+  font-size: 2em;
+  line-height: 1;
+}
+
+.indent {
+  margin-left: 40%;
+}
+
+#mainTitle{
+  margin-left: 20%;
+  margin-top: 10%;
+  font-size: 1.6em;
+  line-height: 1.2;
+}
+
+#name {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: black;
+}
+
+#dateTime{
+  margin-top: 8%;
+  margin-bottom: 15%;
+}
+
+.details {
+  font-size: 0.8em;
+}
+#weight1{
+  font-weight: 100;
+}
+#weight2{
+  font-weight: 300;
+}
+#weight3{
+  font-weight: 400;
+}
+#weight4{
+  font-weight: 500;
+}
+#weight5{
+  font-weight: 900;
+}
+
+.weights {
+  font-family: "Roboto";
+  font-size: 32px;
+}
+
+
+#grandCanyon {
+  background-image: url(../images/grand_canyon.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+
+}
+
+.text {
+  margin-left: 3%;
+  padding-top: 10%;
+  max-width: 50%;
+  text-transform: uppercase;
+  color: #750000;
+  font-family: 'Tienne', serif;
+  line-height: 0.9;
+  -webkit-text-stroke: thin black;
+}
+
+#title, #gc {
+  font-weight: bold;
+  font-family: "Arial Black";
+}
+
+#title {
+  letter-spacing: -1px;
+  font-size: 35px;
+
+}
+
+#gc {
+  font-size: 55px;
+  text-align: justify;
+  font-family: "Arial Black";
+}
+
+#description, #url {
+  font-weight: black;
+  font-family: "Arial Black";
+
+
+}
+
+#description {
+  font-size: 22px;
+  padding-top: 20%;
+}
+
+#url {
+  font-size: 20px;
+  padding-top: 25%;
+}
+
+#unitProj {
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 2em;
+  border: 3px solid black;
+  width: 60%;
+  margin: 0 auto;
+  background-color: #bbb;
+  padding-bottom: 30px;
+  color: #e81c4f;
+  text-shadow: 1px 1px black;
+}
+
+a {
+  text-decoration: none
+}
