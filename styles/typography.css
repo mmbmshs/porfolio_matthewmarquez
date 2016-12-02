@@ -211,19 +211,6 @@ section p {
   padding-top: 25%;
 }
 
-#unitProj {
-  text-align: center;
-  letter-spacing: 4px;
-  font-size: 2em;
-  border: 3px solid black;
-  width: 60%;
-  margin: 0 auto;
-  background-color: #bbb;
-  padding-bottom: 30px;
-  color: #e81c4f;
-  text-shadow: 1px 1px black;
-}
-
 a {
   text-decoration: none
 }

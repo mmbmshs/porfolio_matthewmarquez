@@ -1,0 +1,49 @@
+#line1{
+  font-size: 4.5em;
+  letter-spacing: 5px;
+  font-style: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 150%;
+  font-weight: 900;
+  color: #76A5BF;
+}
+#line2{
+  font-size: 3em;
+  letter-spacing: 6px;
+  font-style: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 150%;
+  font-weight: 900;
+  color:#76A5BF;
+}
+#line3{
+  font-size: 3em;
+  letter-spacing: 4px;
+  font-style: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 150%;
+  font-weight: 900;
+  color:#76A5BF;
+}
+#line4{
+  font-size: 1.4em;
+  letter-spacing: 4px;
+  font-style: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 500%;
+  font-weight: 900;
+  color:#76A5BF;
+  text-align: right;
+}
+}
+.alllines{
+  color: #000;
+  height: 10px;
+  width: 10px 5px;
+  border: .4em solid #000000;
+
+}
