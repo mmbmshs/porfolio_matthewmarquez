@@ -20,7 +20,7 @@
 }
 #line3{
   font-size: 3em;
-  letter-spacing: 4px;
+  letter-spacing: 1px;
   font-style: sans-serif;
   font-weight: bold;
   text-align: center;
@@ -36,14 +36,35 @@
   text-align: center;
   line-height: 500%;
   font-weight: 900;
-  color:#76A5BF;
+  color:black;
   text-align: right;
 }
-}
-.alllines{
+.lines1-4{
   color: #000;
-  height: 10px;
-  width: 10px 5px;
-  border: .4em solid #000000;
+  background-color:yellow ;
+  width: 80%;
+  margin: 0 auto;
+  border: .4em solid black;
+  border-radius: 4.5em;
+  font-size: .8em;
+  font-weight: lighter;
+  font-family: anton;
+  letter-spacing: 4px;
+  text-align: justify;
+  line-height: 500%;
+}
 
+.sqlines1-4{
+  color: #000;
+  background-color:gray ;
+  width: 80%;
+  margin: 0 auto;
+  border: .4em solid black;
+  border-radius: 4em;
+  font-size: .8em;
+  font-weight: lighter;
+  font-family: cursive;
+  letter-spacing: 4px;
+  text-align: justify;
+  line-height: 500%;
 }
