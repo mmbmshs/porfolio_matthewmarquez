@@ -1,70 +1,76 @@
-#line1{
-  font-size: 4.5em;
-  letter-spacing: 5px;
+.text {
   font-style: sans-serif;
-  font-weight: bold;
   text-align: center;
   line-height: 150%;
   font-weight: 900;
-  color: #76A5BF;
+  color:#76A5BF;
+}
+
+.line1{
+  font-size: 4.5em;
+  letter-spacing: 5px;
+
 }
 #line2{
   font-size: 3em;
   letter-spacing: 6px;
-  font-style: sans-serif;
-  font-weight: bold;
-  text-align: center;
-  line-height: 150%;
-  font-weight: 900;
-  color:#76A5BF;
+
 }
 #line3{
   font-size: 3em;
   letter-spacing: 1px;
-  font-style: sans-serif;
-  font-weight: bold;
-  text-align: center;
-  line-height: 150%;
-  font-weight: 900;
-  color:#76A5BF;
+
 }
 #line4{
   font-size: 1.4em;
   letter-spacing: 4px;
-  font-style: sans-serif;
-  font-weight: bold;
-  text-align: center;
-  line-height: 500%;
-  font-weight: 900;
-  color:black;
   text-align: right;
 }
 .lines1-4{
   color: #000;
-  background-color:yellow ;
   width: 80%;
   margin: 0 auto;
   border: .4em solid black;
   border-radius: 4.5em;
   font-size: .8em;
   font-weight: lighter;
-  font-family: anton;
+  /*font-family: anton;*/
   letter-spacing: 4px;
   text-align: justify;
   line-height: 500%;
+  box-shadow: 10px 10px 5px;
+  margin-bottom: 50px;
+  background-image: url( "../images/FieldOfDreams_baseball1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .sqlines1-4{
-  color: #000;
-  background-color:gray ;
   width: 80%;
   margin: 0 auto;
   border: .4em solid black;
   border-radius: 4em;
   font-size: .8em;
-  font-weight: lighter;
+  font-weight: bold;
   font-family: cursive;
   letter-spacing: 4px;
-  text-align: justify;
   line-height: 500%;
+  box-shadow: 10px 10px 5px black;
+  background-image: url("../images/studying.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.sq {
+  color: black;
 }
