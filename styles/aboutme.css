@@ -11,4 +11,25 @@ body{
 }
 a{
   color:#e81c4f;
+  font-size: 1.1em;
+  font-family: "Oswald";
+  text-decoration: none;
+}
+h1{
+  font-family: "Oswald";
+  text-align: center;
+}
+h2{
+  font-family: "Merriweather";
+  text-align: center;
+  background-color:#e81c4f;
+  color:white;
+  padding: 0;
+  font-size:1.3em;
+}
+#aboutmephoto{
+margin: 0 auto;
+border-radius: 10px;
+max-width: 500px;
+display: block;
 }
