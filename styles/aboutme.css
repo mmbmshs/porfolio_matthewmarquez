@@ -34,20 +34,21 @@ margin: 0 auto;
 border-radius: 10px;
 max-width: 500px;
 display: block;
+clear: both;
 }
 .bioDetails{
   width: 20%;
   float: left;
-  border-radius: 1em;
 }
 div ul li{
   margin-bottom: 20px;
 }
 div ul{
-  padding: 10px;
+  padding: 8px;
 }
 nav ul li{
   float: left;
   width: 12%;
   margin-bottom: 30px;
+  list-style-type: none;
 }
